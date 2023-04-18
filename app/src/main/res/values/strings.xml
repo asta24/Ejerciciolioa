@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ejerciciolioa</string>
+    <string name="tv1">Sin registrar</string>
+    <string name="BotonCal">Calculadora</string>
+    <string name="BotonForm">Formulario</string>
+    <string name="txt_num1_String">introduce el primer número</string>
+    <string name="txt_num2_String">introduce el segundo número</string>
+    <string name="BotonVolver">Volver al inicio</string>
+    <string name="BotonVolver2">Volver al inicio</string>
+    <string name="BotonVolver3">Volver al inicio</string>
+    <string name="BotonWeb">Ir Web</string>
+
+</resources>
